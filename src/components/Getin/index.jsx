@@ -13,17 +13,17 @@
                         </p>
                         <div className="flex items-center gap-5 mt-10">
                             <button className="bg-blue-dark rounded-md  p-2 gap-4 items-center cursor-pointer">
-                                <img src="/src/assets/Vectorgoogle.svg" alt="" />
+                                <img src="/src/assets/google.svg" alt="" />
                             </button>
                             <button className="bg-blue-dark rounded-md flex p-2 gap-4 items-center cursor-pointer">
-                                <img src="/src/assets/Vectormalã.svg" alt="" />
-                                <img src="/src/assets/APPstore.svg" alt="" />
+                                <img src="/src/assets/maca.svg" alt="" />
+                                <img src="/src/assets/storeapple.svg" alt="" />
                             </button>
                         </div>
                     </div>
                     <figure className="mx-md:hidden">
                         <img 
-                        src="/src/assets/New notifications-amico 1notifications.svg" 
+                        src="/src/assets/notifications.svg" 
                         alt="" 
                         className="max-md:hidden"/>
                     </figure>

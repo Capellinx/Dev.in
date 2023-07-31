@@ -20,7 +20,7 @@ export default {
         '128': '470px',
       },
       backgroundImage: {
-        'contract-bg': "url('./src/assets/Group 33554ga.png')"
+        'contract-bg': "url('./src/assets/contractbg.png')"
       }
     },
   },

@@ -14,7 +14,7 @@ export function Header() {
     return ( 
         <header className="shadow-md w-full  fixed top-0 left-0bg-white">
             <div className="md:flex items-center justify-around py-4 bg-white max-md:px-10 px-7">
-                <img src="/src/assets/Group 34090dev,.in.svg" alt="Logo-company" />
+            <img src="/src/assets/headerlogo.svg" alt="Logo-company" />
             <nav className="">
                 <div onClick={() => setOpen(!open)} className='text-3xl absolute right-8 top-6 cursor-pointer md:hidden'>
                     <ion-icon name={open ? 'close' : 'menu'}></ion-icon> 
