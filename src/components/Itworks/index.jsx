@@ -8,7 +8,7 @@ export function ItWokrs() {
                 <div className="mx-auto max-w-7xl p-10 mt-24 flex items-center justify-around max-md:flex-col max-md:gap-20 max-md:mt-12">
                     <div className="w-52 text-center flex items-center justify-center flex-col">
                         <img 
-                        src="/src/assets/conection.svg" 
+                        src="/src/assets/svg/conection.svg" 
                         alt="" />
                         <p className="font-sora font-semibold text-xl mt-6">Crie Conexões</p>
                         <span className="mt-6 font-inter text-gray">
@@ -17,7 +17,7 @@ export function ItWokrs() {
                     </div>
                     <div className="w-52 text-center flex items-center justify-center flex-col">
                         <img 
-                        src="/src/assets/security.svg" 
+                        src="/src/assets/svg/security.svg" 
                         alt="" />
                         <p className="font-sora font-semibold text-xl mt-6">100% gratuito</p>
                         <span className="mt-6 font-inter text-gray">
@@ -26,7 +26,7 @@ export function ItWokrs() {
                     </div>
                     <div className="w-52 text-center flex items-center justify-center flex-col">
                         <img 
-                        src="/src/assets/happy.svg" 
+                        src="/src/assets/svg/happy.svg" 
                         alt="" />
                         <p className="font-sora font-semibold text-xl mt-6">Compartilhamento</p>
                         <span className="mt-6 font-inter text-gray">

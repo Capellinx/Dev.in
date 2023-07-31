@@ -13,7 +13,7 @@ export function Intro() {
               </button>
             </div>
             <figure>
-              <img src="../../../src/assets/workingforrest.svg" alt="" className="max-md:w-[210px] max-md:h-[183px]"/>
+              <img src="/src/assets/svg/workingforrest.svg" alt="" className="max-md:w-[210px] max-md:h-[183px]"/>
             </figure>
           </div>
       </section>
